@@ -1,0 +1,15 @@
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\bin\Debug\net6.0\MaHoaRSA_Console.exe
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\bin\Debug\net6.0\MaHoaRSA_Console.deps.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\bin\Debug\net6.0\MaHoaRSA_Console.runtimeconfig.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\bin\Debug\net6.0\MaHoaRSA_Console.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\bin\Debug\net6.0\MaHoaRSA_Console.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.csproj.AssemblyReference.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.AssemblyInfoInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.AssemblyInfo.cs
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.csproj.CoreCompileInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\refint\MaHoaRSA_Console.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\MaHoaRSA_Console.genruntimeconfig.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\MaHoaRSA_Console\obj\Debug\net6.0\ref\MaHoaRSA_Console.dll

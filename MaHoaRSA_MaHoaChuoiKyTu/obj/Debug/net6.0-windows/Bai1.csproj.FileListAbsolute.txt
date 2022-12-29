@@ -1,0 +1,17 @@
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\bin\Debug\net6.0-windows\Bai1.exe
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\bin\Debug\net6.0-windows\Bai1.deps.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\bin\Debug\net6.0-windows\Bai1.runtimeconfig.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\bin\Debug\net6.0-windows\Bai1.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\bin\Debug\net6.0-windows\Bai1.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.AssemblyReference.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.Form1.resources
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.GenerateResource.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfoInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.AssemblyInfo.cs
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.csproj.CoreCompileInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\refint\Bai1.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\Bai1.genruntimeconfig.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\TH_MaHoaUngDung_Buoi4\Bai1\obj\Debug\net6.0-windows\ref\Bai1.dll
