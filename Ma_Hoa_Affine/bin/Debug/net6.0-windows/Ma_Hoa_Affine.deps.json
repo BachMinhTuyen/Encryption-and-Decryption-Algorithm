@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ma_Hoa_Affine/1.0.0": {
+        "runtime": {
+          "Ma_Hoa_Affine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ma_Hoa_Affine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

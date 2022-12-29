@@ -1,0 +1,17 @@
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\bin\Debug\net6.0-windows\Ma_Hoa_Affine.exe
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\bin\Debug\net6.0-windows\Ma_Hoa_Affine.deps.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\bin\Debug\net6.0-windows\Ma_Hoa_Affine.runtimeconfig.json
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\bin\Debug\net6.0-windows\Ma_Hoa_Affine.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\bin\Debug\net6.0-windows\Ma_Hoa_Affine.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.csproj.AssemblyReference.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.Form1.resources
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.csproj.GenerateResource.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.AssemblyInfoInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.AssemblyInfo.cs
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.csproj.CoreCompileInputs.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\refint\Ma_Hoa_Affine.dll
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.pdb
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\Ma_Hoa_Affine.genruntimeconfig.cache
+D:\HUFI\HK3\Mã hoá và ứng dụng\Thực hành\Buoi 2\Buoi2_ThucHanh_MaHoaUngDung_WinForm\Ma_Hoa_Affine\obj\Debug\net6.0-windows\ref\Ma_Hoa_Affine.dll
